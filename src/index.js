@@ -1,4 +1,5 @@
 import './js/refs.js';
+import './js/bg-animation.js';
 import './js/axios.js';
 import './js/preloader.js';
 import './js/navigation.js';
